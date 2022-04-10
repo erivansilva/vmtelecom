@@ -1,5 +1,5 @@
 *body{
-    background-color:#000;   
+      
 }
 .h3{
     text-align: center; 
@@ -9,7 +9,7 @@
 .home{
     width:100%; 
     padding:200px 0 0 0;
-    
+     background-color:#000;
 }
 #upgrade{
     width:300px; 
