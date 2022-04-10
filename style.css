@@ -4,10 +4,10 @@
 .h3{
     text-align: center; font-size: 30px; margin-bottom: 50px; 
 }
-.principal_upground{
+.principal_home{
     width:100%; padding:200px 0 0 0
 }
-.principal_upgrade img{
+#upgrade{
     width:500px; 
     display: block; 
     margin-left: auto; 
